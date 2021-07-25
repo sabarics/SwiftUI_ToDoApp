@@ -1,5 +1,5 @@
 # SwiftUI_ToDoApp
-Simple ToDo app using SwiftUI
+Simple ToDo app using SwiftUI & Core Data
 <table>
    <tr>
     <td>ToDo with Empty State</td>
