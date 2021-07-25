@@ -26,7 +26,7 @@ struct TaskDetailView: View {
                     }
                 }
                 .cornerRadius(20)
-                .padding(.bottom, -20)
+                .padding(.bottom, -40)
             }
         }
         .navigationBarBackButtonHidden(true)
